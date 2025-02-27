@@ -28,7 +28,9 @@ class ColorManager {
   static const Color orange = Color(0xFFFFB74D);
   static const Color deepOrange = Color(0xFFFF8A65);
   static const Color brown = Color(0xFFA1887F);
-  static const Color grey = Color(0xFFE0E0E0);
+  static const Color grey = Color(0xFF757575);
+  static const Color lightGrey = Color(0xFFF5F5F5);
+
   static const Color blueGrey = Color(0xFF90A4AE);
 
   static const Color transparent = Color(0x00000000);
