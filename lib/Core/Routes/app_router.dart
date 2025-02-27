@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_3/Core/Routes/routes.dart';
-import 'package:flutter_application_3/Features/Home/UI/Screens/login_screen.dart';
+import 'package:gedeed/Core/Routes/routes.dart';
+import 'package:gedeed/Features/Home/UI/Screens/login_screen.dart';
 
 import '../../Features/Home/UI/Screens/onBoarding/on_boarding.dart';
 
