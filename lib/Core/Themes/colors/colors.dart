@@ -34,4 +34,9 @@ class ColorManager {
   static const Color blueGrey = Color(0xFF90A4AE);
 
   static const Color transparent = Color(0x00000000);
+  static const Color semiTransparent = Color(0x80000000);
+  static const Color semiTransparentWhite = Color(0x80FFFFFF);
+  static const Color semiTransparentBlack = Color(0x80000000);
+  static const Color semiTransparentGrey = Color(0x80BDBDBD);
+  static const Color semiTransparentBlue = Color(0x80247CFF);
 }
