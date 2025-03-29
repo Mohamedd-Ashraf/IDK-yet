@@ -1,8 +1,8 @@
 import 'package:dio/dio.dart';
 import 'package:gedeed/Core/NetWorking/api_constants.dart';
 import 'package:retrofit/retrofit.dart';
-import '../../Features/Login/Data/data/models/login_request_body.dart';
-import '../../Features/Login/Data/data/models/login_response.dart';
+import '../../Features/Login/Data/models/login_request_body.dart';
+import '../../Features/Login/Data/models/login_response.dart';
 
 part 'api_service.g.dart';
 

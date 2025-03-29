@@ -1,8 +1,8 @@
 import 'package:bloc/bloc.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:gedeed/Features/Home/Logic/cubit/login_state.dart';
-import 'package:gedeed/Features/Login/Data/data/models/login_request_body.dart';
-import 'package:gedeed/Features/Login/Data/data/repos/login_repo.dart';
+import 'package:gedeed/Features/Login/Logic/cubit/login_state.dart';
+import 'package:gedeed/Features/Login/Data/models/login_request_body.dart';
+import 'package:gedeed/Features/Login/Data/repos/login_repo.dart';
 
 
 class LoginCubit extends Cubit<LoginState> {

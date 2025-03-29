@@ -1,8 +1,8 @@
 
 
-import '../../../../../Core/NetWorking/api_error_handler.dart' show ErrorHandler;
-import '../../../../../Core/NetWorking/api_result.dart';
-import '../../../../../Core/NetWorking/api_service.dart';
+import '../../../../Core/NetWorking/api_error_handler.dart' show ErrorHandler;
+import '../../../../Core/NetWorking/api_result.dart';
+import '../../../../Core/NetWorking/api_service.dart';
 import '../models/login_request_body.dart';
 import '../models/login_response.dart';
 

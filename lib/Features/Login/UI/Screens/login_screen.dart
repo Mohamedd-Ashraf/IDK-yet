@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:gedeed/Core/Helpers/CoreWidgets/primary_button_widget.dart';
 import 'package:gedeed/Core/Routes/routes.dart';
-import 'package:gedeed/Features/Home/UI/Widgets/login/login_fields_widget.dart';
-import 'package:gedeed/Features/Home/UI/Widgets/login/login_lower_bar_widget.dart';
-import 'package:gedeed/Features/Home/UI/Widgets/login/login_text_widget.dart';
+import 'package:gedeed/Features/Login/UI/Widgets/login/login_fields_widget.dart';
+import 'package:gedeed/Features/Login/UI/Widgets/login/login_lower_bar_widget.dart';
+import 'package:gedeed/Features/Login/UI/Widgets/login/login_text_widget.dart';
 
 class loginScreen extends StatelessWidget {
   const loginScreen({super.key});

@@ -1,8 +1,8 @@
 import 'package:dio/dio.dart';
 import 'package:gedeed/Core/NetWorking/api_service.dart';
 import 'package:gedeed/Core/NetWorking/dio_factory.dart';
-import 'package:gedeed/Features/Home/Logic/cubit/login_cubit.dart';
-import 'package:gedeed/Features/Login/Data/data/repos/login_repo.dart';
+import 'package:gedeed/Features/Login/Logic/cubit/login_cubit.dart';
+import 'package:gedeed/Features/Login/Data/repos/login_repo.dart';
 import 'package:get_it/get_it.dart';
 
 final getIt = GetIt.instance;
